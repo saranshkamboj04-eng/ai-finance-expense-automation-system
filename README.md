@@ -87,13 +87,13 @@ Finance-Automation-Project/
 
 ### 2. Google Sheet Data Capture
 
-![Google Sheet](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/sheet_data.png)
+![Google Sheet](google_sheet.png.jpeg)
 
 ---
 
 ### 3. n8n Workflow Architecture
 
-![n8n Workflow](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/workflow_diagram.png)
+![n8n Workflow](n8n_architecture.png.jpeg)
 
 ---
 
