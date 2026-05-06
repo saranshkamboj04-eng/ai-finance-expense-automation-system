@@ -70,22 +70,22 @@ Finance-Automation-Project/
 ## Screenshots
 
 ### 1. Google Form Interface
-![Google Form](screenshots/form_view.png)
+"C:\Users\saran\Desktop\Finance_automation\google_form.png.jpeg"
 
 ---
 
 ### 2. Google Sheet Data Capture
-![Google Sheet](screenshots/sheet_data.png)
+"C:\Users\saran\Desktop\Finance_automation\google_sheet.png.jpeg"
 
 ---
 
 ### 3. n8n Workflow Architecture
-![n8n Workflow](screenshots/workflow_diagram.png)
+"C:\Users\saran\Desktop\Finance_automation\n8n_architecture.png.jpeg"
 
 ---
 
 ### 4. Email Notification Output
-![Email Notification](screenshots/email_notification.png)
+"C:\Users\saran\Desktop\Finance_automation\email_output.png.jpeg"
 
 ---
 
