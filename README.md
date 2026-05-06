@@ -99,7 +99,8 @@ Finance-Automation-Project/
 
 ### 4. Email Notification Output
 
-![Email Notification](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/email_notification.png)
+![Email Notification](email_output.png.jpeg)
+
 
 ---
 
